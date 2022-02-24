@@ -1,6 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 .titulo {
     background-color: rgba(165, 42, 42, 0.295);
     display: flex;
+    justify-content: right;
+    padding-right: 40px;
+}
+.copyright {
+    background-color: rgba(226, 125, 78, 0.733);
+    display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1;
+    padding: 1rem;
+    margin: 1px;
+       
 }
