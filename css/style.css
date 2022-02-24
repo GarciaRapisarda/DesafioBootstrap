@@ -5,9 +5,14 @@
 }
 .titulo {
     background-color: rgba(165, 42, 42, 0.295);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: right;
     padding-right: 40px;
+}
+.card-link {
+    text-decoration: none;
+    color: #198754;
 }
 .copyright {
     background-color: rgba(226, 125, 78, 0.733);
